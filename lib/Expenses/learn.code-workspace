@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "learn",
+			"path": "..\\.."
+		},
+		{
+			"name": "tiktac",
+			"path": "..\\..\\..\\tiktac"
+		}
+	],
+	"settings": {}
+}
